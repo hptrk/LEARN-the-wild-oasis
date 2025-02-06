@@ -1,8 +1,25 @@
-# React + Vite
+# The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created as part of a **React development** Udemy course.
+It focuses on building a modern **application** with real-world tools, including **state management, data fetching, and UI styling**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **React & Styled Components** – Modern UI with component-based styling.
+- **State Management** – Uses **Redux** for global state handling.
+- **Data Fetching with React Query** – Optimized API calls and caching for better performance.
+- **Supabase Backend** – Real **NoSQL database** with authentication.
+- **Fully Responsive** – Mobile-friendly and accessible design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📅 Project Details
+- **Course**: Udemy - The Ultimate React Course 2023: React, Next.js, Redux & More
+- **Year**: 2023
+- **Technologies**: React, Styled Components, React Query, Redux, Supabase
+
+## 📸 Preview  
+![The Wild Oasis Screenshot](readme-images/screenshot1.png)
+![The Wild Oasis Screenshot](readme-images/screenshot2.png)
+![The Wild Oasis Screenshot](readme-images/screenshot3.png)
+
+---
+
+⭐ This was a learning project and is not actively maintained.
